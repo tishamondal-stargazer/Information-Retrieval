@@ -51,3 +51,15 @@ These preprocessing techniques help prepare the dataset for machine learning alg
 
 Tool Used:
 WEKA Explorer
+
+
+Output Screenshots:
+
+Add Attribute Operation:
+![Add Attribute](add_attribute_weka.png)
+
+Remove Attribute Operation:
+![Remove Attribute](remove_attribute_weka.png)
+
+Normalize Operation:
+![Normalize](normalize_attribute_weka.png)
