@@ -60,9 +60,6 @@ Original Dataset:
 Equal Width Discretization:
 ![Equal Width](discretize_equal_width.png)
 
-Equal Frequency Discretization:
-![Equal Frequency](discretize_equal_frequency.png)
-
 Conclusion:
 
 Thus, discretization helps in simplifying continuous data into meaningful intervals. It improves model interpretability and can enhance classification performance. Equal-width and equal-frequency binning produce different results and must be selected based on dataset characteristics.
